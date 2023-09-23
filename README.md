@@ -1,2 +1,2 @@
-# Analystt.ai-test
-Code for project 1 and 2
+# Amazon_web_scrape
+Code to scrape data from amazon.com and store the details in a database
